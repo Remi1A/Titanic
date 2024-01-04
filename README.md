@@ -1,5 +1,5 @@
-# Titanic
-Titanic Passenger Survival Prediction
+# Titanic Passenger Survival Prediction
+
 This Python script, created in Spyder, focuses on predicting the survival of Titanic passengers using the K-Nearest Neighbors (KNN) algorithm. The script includes data loading, preprocessing, exploratory data analysis (EDA), and machine learning model training and evaluation.
 
 Requirements:
